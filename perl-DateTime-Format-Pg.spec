@@ -4,7 +4,7 @@
 #
 Name     : perl-DateTime-Format-Pg
 Version  : 0.16014
-Release  : 17
+Release  : 18
 URL      : https://cpan.metacpan.org/authors/id/D/DM/DMAKI/DateTime-Format-Pg-0.16014.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/D/DM/DMAKI/DateTime-Format-Pg-0.16014.tar.gz
 Summary  : 'Parse and format PostgreSQL dates and times'
@@ -94,4 +94,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.3/DateTime/Format/Pg.pm
+/usr/lib/perl5/vendor_perl/5.32.1/DateTime/Format/Pg.pm
