@@ -2,4 +2,5 @@
 perl(ExtUtils::Config)
 perl(ExtUtils::Helpers)
 perl(ExtUtils::InstallPaths)
+perl(Getopt::Long)
 perl(Module::Build::Tiny)
